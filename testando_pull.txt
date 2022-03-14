@@ -1,3 +1,2 @@
 Teste de pull do git para meu repositório local
-
 gerando conflito 1.2
