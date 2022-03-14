@@ -1,1 +1,2 @@
 Teste de pull do git para meu repositório local
+Agora gerando um conflito simples
